@@ -10,7 +10,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jbeat30/jbeat-conventions.git",
-        "ref": "v1.1.1"
+        "ref": "v1.1.2"
       },
       "description": "Shared Jbeat engineering conventions packaged as a Claude plugin skill.",
       "category": "Productivity"
@@ -20,7 +20,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jbeat30/agent-team-base.git",
-        "ref": "v0.3.4"
+        "ref": "v0.3.5"
       },
       "description": "Claude Code agent team base (Lite/Full) that respects existing project policies, installed through a skill.",
       "category": "Productivity"
