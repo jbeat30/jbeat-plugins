@@ -10,7 +10,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jbeat30/jbeat-conventions.git",
-        "ref": "v1.1.2"
+        "ref": "v1.2.0"
       },
       "description": "Shared Jbeat engineering conventions packaged as a Claude plugin skill.",
       "category": "Productivity"
@@ -20,7 +20,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jbeat30/claude-subagent-workflow.git",
-        "ref": "v0.3.8"
+        "ref": "v0.4.0"
       },
       "description": "Claude Code subagent workflow (Lite/Full) that respects existing project policies, installed through a skill.",
       "category": "Productivity"
