@@ -14,7 +14,7 @@ Jbeat 플러그인을 Claude Code에 등록하는 마켓플레이스 목록 저�
 | 플러그인 | 설치 | 저장소 |
 | --- | --- | --- |
 | jbeat-conventions | `/plugin install jbeat-conventions@jbeat-plugins` | [jbeat30/jbeat-conventions](https://github.com/jbeat30/jbeat-conventions) |
-| agent-team-base | `/plugin install agent-team-base@jbeat-plugins` | [jbeat30/agent-team-base](https://github.com/jbeat30/agent-team-base) |
+| subagent-workflow | `/plugin install subagent-workflow@jbeat-plugins` | [jbeat30/claude-subagent-workflow](https://github.com/jbeat30/claude-subagent-workflow) |
 
 두 플러그인은 서로 독립이며 하나만 설치해도 됨
 
