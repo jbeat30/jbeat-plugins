@@ -10,7 +10,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jbeat30/jbeat-conventions.git",
-        "ref": "v1.2.0"
+        "ref": "v2.0.0"
       },
       "description": "Shared Jbeat engineering conventions packaged as a Claude plugin skill.",
       "category": "Productivity"
