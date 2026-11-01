@@ -23,7 +23,7 @@ Jbeat 플러그인을 Claude Code에 등록하는 마켓플레이스 목록 저�
 - 각 플러그인 항목의 `ref`가 배포 버전(태그)
 - 플러그인 릴리즈 후 소유자가 main의 `.claude-plugin/marketplace.json`에서 `ref`만 수정해 직접 커밋
 - 사용자는 `/plugin marketplace update jbeat-plugins` 실행 시 반영
-- 소유자 외 쓰기 불가, 이슈·위키·프로젝트·Actions 비활성
+- 소유자 외 쓰기 불가
 
 ## 기존 `jbeat30/jbeat-conventions`로 등록한 환경
 
